@@ -2,7 +2,11 @@ Midterm Project: Modelling House Prices
 
 Group Members: Louisa & Hannah
 
-Goal of the project, what you want to achieve. Please specify if it is a modelling or BI project
+Goal of the project:
+
+Build a model that will predict the price of a house based on features provided in the dataset.
+Further explore the characteristics of the houses using tableau. 
+
 
 Brief description of the dataset:
 
@@ -10,10 +14,6 @@ Source: historic housing data from a real estate company
 Number of features: 21 columns 
 Number of rows: 21.597 entries
 
-Objective: The task is to build a model that will predict the price of a house based on features provided in the dataset. 
-The senior management also wants to explore the characteristics of the houses using some business intelligence tool. 
-One of those parameters include understanding which factors are responsible for higher property value - $650K and above. 
-The questions have been provided later in the document for which you can use tableau.
 
 Project Plan
 
@@ -36,7 +36,7 @@ model evaluation
 Day 3 - Modelling and presentation 
 
 improve model
-use tableau/sql
+create additional plots using tableau
 start creating presentation (find template and create presentation structure)
 
 Day 4 - Final Touches
