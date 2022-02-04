@@ -1,6 +1,6 @@
-Midterm Project: modelling house prices
+Midterm Project: Modelling House Prices
 
-Members of the group: Louisa & Hannah
+Group Members: Louisa & Hannah
 
 Goal of the project, what you want to achieve. Please specify if it is a modelling or BI project
 
@@ -31,11 +31,12 @@ Encode Categorical Features
 x/y split
 data split
 model training
+model evaluation
 
 Day 3 - Modelling and presentation 
 
-model evaluation
 improve model
+use tableau/sql
 start creating presentation (find template and create presentation structure)
 
 Day 4 - Final Touches
