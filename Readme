@@ -6,6 +6,10 @@ Goal of the project, what you want to achieve. Please specify if it is a modelli
 
 Brief description of the dataset (Source, Number of rows, number of features)
 
+source 
+number of features: 21 columns 
+number of rows: 21.597 entries
+
 Objective: The task is to build a model that will predict the price of a house based on features provided in the dataset. 
 The senior management also wants to explore the characteristics of the houses using some business intelligence tool. 
 One of those parameters include understanding which factors are responsible for higher property value - $650K and above. 
