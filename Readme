@@ -1,1 +1,47 @@
-test test
+Midterm Project: Modelling House Prices
+
+Group Members: Louisa & Hannah
+
+Goal of the project:
+
+Build a model that will predict the price of a house based on features provided in the dataset.
+Further explore the characteristics of the houses using tableau. 
+
+
+Brief description of the dataset:
+
+Source: historic housing data from a real estate company
+Number of features: 21 columns 
+Number of rows: 21.597 entries
+
+
+Project Plan
+
+Day 1 - EDA and cleaning
+
+EDA
+Clean the data
+Remove typos 
+Correct datatypes
+
+Day 2 - Transform the data
+
+Scale Numerical Features
+Encode Categorical Features
+x/y split
+data split
+model training
+model evaluation
+
+Day 3 - Modelling and presentation 
+
+improve model
+create additional plots using tableau
+start creating presentation (find template and create presentation structure)
+
+Day 4 - Final Touches
+
+document code
+formatting and final cleaning jupyter notebook
+finish presentation on keynote
+practice presentation
