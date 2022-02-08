@@ -24,7 +24,7 @@ EDA
 Clean the data
 Remove typos 
 Correct datatypes
-Scale Numerical Features
+Scale and transform Numerical Features
 Encode Categorical Features
 x/y split
 data split
