@@ -10,22 +10,20 @@ Further explore the characteristics of the houses using tableau.
 
 Brief description of the dataset:
 
-Source: historic housing data from a real estate company
-Number of features: 21 columns 
-Number of rows: 21.597 entries
+Source: housing data from a real estate company: data from houses sold between May 2014 and May 2015 in Seattle and Kings County, WA (USA)
+21 columns 
+21.597 entries
 
 
 Project Plan
 
-Day 1 - EDA and cleaning
+
+Day 1 - EDA, cleaning and transforming the data
 
 EDA
 Clean the data
 Remove typos 
 Correct datatypes
-
-Day 2 - Transform the data
-
 Scale Numerical Features
 Encode Categorical Features
 x/y split
@@ -33,11 +31,20 @@ data split
 model training
 model evaluation
 
-Day 3 - Modelling and presentation 
+
+Day 2 - Modelling and Presentation
 
 improve model
 create additional plots using tableau
 start creating presentation (find template and create presentation structure)
+
+
+Day 3 - Modelling and Presentation
+ 
+continue working on the model
+create additional plots using tableau
+work on presentation
+
 
 Day 4 - Final Touches
 
